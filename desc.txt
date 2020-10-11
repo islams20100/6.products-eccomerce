@@ -1,0 +1,8 @@
+1- add new prodcut
+2- if its your first time , then create `allProduct` array
+   if its not your first time , then get products from local storage and put in `allProduct` array  
+3- use function `addProduct` to create product and push to `allProduct`
+4- save your `allProduct` object array in local storage so user can see in the next time
+5- `displayProducts` function using for loop to print `allProduct` in html table
+6- `deleteProducts` function to load products from storage , delete the prodcut and resave products again
+
